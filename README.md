@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Bubble Tea - Interfaz Web (React)
+Este proyecto es una interfaz web interactiva desarrollada en React para una experiencia única de Bubble Tea. Permite a los usuarios explorar una variedad de bebidas, elegir entre diferentes sabores, personalizar sus órdenes y disfrutar de un diseño visualmente atractivo y fácil de usar.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Características
+- Diseño atractivo y responsivo: La interfaz está optimizada para funcionar en diferentes dispositivos, incluyendo computadoras de escritorio y dispositivos móviles.
+- Navegación sencilla: El menú en el encabezado ofrece enlaces rápidos a las secciones principales: Home, Services, About Us, Contact.
+- Explora productos: Los usuarios pueden ver diferentes sabores de Bubble Tea con imágenes, precios y botones para "Buy Now".
+- Interactividad con React: Se utilizan componentes React para estructurar la interfaz y gestionar las interacciones del usuario.
 
-## Available Scripts
+## Tecnologías utilizadas
+Este proyecto fue desarrollado con las siguientes tecnologías:
 
-In the project directory, you can run:
+- React: Para crear la interfaz de usuario interactiva y modular.
+- Tailwind CSS: Para el diseño responsivo y estilización rápida de los componentes.
+- Font Awesome: Para los íconos utilizados en la interfaz, como en los botones de redes sociales y el cambio de tema.
+- JavaScript (ES6+): Para la lógica del comportamiento de la interfaz.
 
-### `npm start`
+## Instalación
+Para empezar con este proyecto, sigue estos pasos:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clona este repositorio: " git clone (url del repositorio)"
+2. Navega al directorio del proyecto: "cd (nombre de la carpeta)"
+3. Instala las dependencias necesarias: "npm install ", este comando instalara todas las dependencias listadas en el archivo package.json
+4. Una vez que las dependencias estén instaladas, inicia el servidor de desarrollo: "npm start"
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Contribuciones
+¡Las contribuciones son bienvenidas! Si tienes una idea para mejorar el proyecto o encontrar algún error, abre un issue o envía un pull request.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Licencia
+Este proyecto está bajo la licencia MIT.
