@@ -23,8 +23,8 @@ Para empezar con este proyecto, sigue estos pasos:
 3. Instala las dependencias necesarias: "npm install ", este comando instalara todas las dependencias listadas en el archivo package.json
 4. Una vez que las dependencias estén instaladas, inicia el servidor de desarrollo: "npm start"
 
-Contribuciones
+## Contribuciones
 ¡Las contribuciones son bienvenidas! Si tienes una idea para mejorar el proyecto o encontrar algún error, abre un issue o envía un pull request.
 
-Licencia
+## Licencia
 Este proyecto está bajo la licencia MIT.
